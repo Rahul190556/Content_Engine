@@ -2,6 +2,10 @@
 
 This project is a Content Engine designed to analyze and compare multiple PDF documents. It specifically identifies and highlights their differences by utilizing Retrieval Augmented Generation (RAG) techniques to effectively retrieve, assess, and generate insights from the documents. The system uses LangChain, FAISS, and a local embedding model (LlamaCpp) to achieve this.
 
+
+![Description](https://github.com/Rahul190556/Content_Engine/blob/cddad6a2d9afddb95a7e4b30fa7335ed9c63747d/Img3.png)
+
+
 ## Features
 
 - **Document Parsing**: Extracts text and structure from uploaded PDF files. The project uses PyPDFLoader to read and extract text from PDF documents. This allows the system to handle multiple documents and convert them into a format suitable for analysis.
@@ -110,7 +114,7 @@ Feel free to open issues or submit pull requests if you find any bugs or have su
 
 ## Contact
 
-If you have any questions or need further assistance, please contact [your-email@example.com](mailto:your-rahulshamr620607@gmail.com).
+If you have any questions or need further assistance, please contact [rahulshamr620607@gmail.com](mailto:rahulshamr620607@gmail.com).
 
 ---
 
